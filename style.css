@@ -5,14 +5,14 @@ body {
     max-width: 1200px;
     margin: auto;
     padding: 20px;
-    background-color: #f8f8f8;
+    background-color: #14945e;
 }
 header {
     text-align: center;
     margin-bottom: 1em;
     padding: 1em;
-    background-color: #3498db;
-    color: #ffffff;
+    background-color: ##148b6c;
+    color: #000000;
     border-radius: 10px;
 }
 
@@ -33,7 +33,7 @@ main {
     display: grid;
     grid-template-columns: 30% 70%;
     margin-top: 2em;
-    background: linear-gradient(to right, #4DB1F0, #ffffff);
+    background: linear-gradient(to right, #14945e, #ffffff);
 }
 
 header {
