@@ -40,7 +40,7 @@ main {
     display: grid;
     grid-template-columns: 30% 70%;
     margin-top: 2em;
-    background: linear-gradient(to right, #3498db, #ffffff);
+    background: linear-gradient(to right, #4DB1F0, #ffffff);
 }
 
 header {
